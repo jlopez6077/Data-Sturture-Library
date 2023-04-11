@@ -10,3 +10,5 @@
 * Hash Chain 
 * Linked Queue 
 * Linked List 
+
+Note: the Graph object has a fucntion that can find the shorts path between two nodes
